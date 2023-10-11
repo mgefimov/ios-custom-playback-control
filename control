@@ -1,0 +1,9 @@
+Package: mg.efimov.custom-playback-control
+Name: custom-playback-control
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Max Efimov
+Author: Max Efimov
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000)
